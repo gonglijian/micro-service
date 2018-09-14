@@ -6,3 +6,4 @@ server:
   port: 1024
   application:
     name: config-server
+hello: hello world ! (from GIT)    
